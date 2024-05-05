@@ -1,2 +1,2 @@
-# ideal-palm-tree
+# Capstone-Project
 IOD Data Science and AI Capstone Project
